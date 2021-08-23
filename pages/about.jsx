@@ -1,8 +1,12 @@
+import layout from "../components/layout"
+
 export default function about() {
 	return (
-		<div>
+		<layout
+			title="About | next.js"
+			description="Agregue una descripcion">
 			<h1>About</h1>
-		</div>
+		</layout>
 	)
 }
 
