@@ -2,7 +2,6 @@ import Head from "next/head";
 import Image from "next/image";
 import layout from "../components/layout";
 import styles from "../styles/Home.module.css";
-import layout from '../components/layout';
 import utilStyles from '../styles/utils.module.css'
 
 export default function Home() {
